@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Test</string>
+    <string name="text_input">Enter Bitcoin Address</string>
+    <string name="button_text">Check Balance</string>
+    <string name="error_input">Invalid address</string>
+    <string name="error_response">something went wrong”</string>
 </resources>
